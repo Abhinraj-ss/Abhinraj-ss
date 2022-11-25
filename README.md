@@ -3,7 +3,7 @@ I took a step into the world of Software Development while I was pursuing my Und
 <h4>
 ⚡ Python</br>
 ⚡ HTML CSS</br>
-🟢 Web Development - ReactJS | Django | Flask | PostgreSQL | MySQL</br>
+🟢 Web Development - ReactJS | Flask | PostgreSQL | MySQL</br>
 🟢 Graphic Designing - Illustrator | After Effects | Gimp | Photoshop</br></h4>
 Find me on <a href="https://www.linkedin.com/in/abhinrajss">LinkedIn</a> !</br>
 Have a look at my <a href="https://abhinraj-dev.netlify.app/">Portfolio</a>.</br>
