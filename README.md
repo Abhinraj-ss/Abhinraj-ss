@@ -1,5 +1,5 @@
 I am <b>Abhin Raj SS</b>, an Electrical Engineering Undergrad and a Computer Science Enthusiast.</br>
-I took a step into the world of Software Development while I was pursuing my Undergrad,these are few of the Tools, Programming Languages and Frameworks I have worked on.</br>
+I took a step into the world of Software Development while I was pursuing my Undergrad, these are few of the Tools, Programming Languages and Frameworks I have worked on.</br>
 <h4>
 ⚡ Python</br>
 ⚡ HTML CSS</br>
